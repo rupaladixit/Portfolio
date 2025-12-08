@@ -1,0 +1,6 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# Override UI plugin settings with empty array
+[[plugins]]
