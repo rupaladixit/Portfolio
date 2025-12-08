@@ -47,6 +47,7 @@ export function Education() {
     }
 
     return () => observer.disconnect();
+    console.log("Education component mounted");
   }, []);
 
   return (
