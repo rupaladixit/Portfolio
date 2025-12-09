@@ -34,7 +34,7 @@ export function Hero() {
         <div className="max-w-4xl mx-auto text-center space-y-6 flex flex-col items-center">
           {/* Avatar Circle */}
           <div className="w-20 h-20 rounded-full bg-gradient-to-br from-primary to-cyan-400 flex items-center justify-center text-3xl font-bold text-primary-foreground shadow-lg shadow-primary/50 animate-pulse">
-            AM
+            DR
           </div>
 
           {/* Name */}
